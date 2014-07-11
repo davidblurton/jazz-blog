@@ -1,0 +1,21 @@
+{
+  "name": "jazz-blog",
+  "version": "0.0.0",
+  "description": "jazz-blog =========",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidblurton/jazz-blog.git"
+  },
+  "author": "David Blurton",
+  "bugs": {
+    "url": "https://github.com/davidblurton/jazz-blog/issues"
+  },
+  "homepage": "https://github.com/davidblurton/jazz-blog",
+  "dependencies": {
+    "ghost": "~0.4.2"
+  }
+}
